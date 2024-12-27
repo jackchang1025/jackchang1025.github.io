@@ -4,16 +4,16 @@
   <url>
     <loc>https://jackchang1025.github.io/2024/08/22/hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2024-12-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jackchang1025.github.io/2024/08/22/hello-world/</loc>
+    <loc>https://jackchang1025.github.io/1970/01/01/hello-world/</loc>
     
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2024-09-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
 
   <url>
     <loc>https://jackchang1025.github.io/</loc>
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2024-12-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,21 +30,21 @@
   
   <url>
     <loc>https://jackchang1025.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2024-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jackchang1025.github.io/tags/hexo/</loc>
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2024-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jackchang1025.github.io/tags/github/</loc>
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2024-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -53,7 +53,7 @@
   
   <url>
     <loc>https://jackchang1025.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2024-08-22</lastmod>
+    <lastmod>2024-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
